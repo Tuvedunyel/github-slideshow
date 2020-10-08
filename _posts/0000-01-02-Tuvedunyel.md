@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*La parole est de machin et puis pouet*
 Use the left arrow to go back!
